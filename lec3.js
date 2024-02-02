@@ -1,4 +1,22 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 var message = "tushar";
 console.log(message);
 var rollno = 20;
 console.log(rollno);
+var name = "Dr vipin"; //Implicit Type
+console.log(name);
+var choice;
+choice = "Javascript";
+choice = 4;
+console.log(choice);
+var nameundefined = undefined;
+var namenull = null;
+var data = [1, 2, 3, 4, 5, 6];
+console.log(data);
+var value = [1, 2, 3, 4, 5, 6];
+console.log(value);
+var numbers = [1, 2, 3, 4, 5, 6];
+numbers.push(100);
+numbers.push("Tushar Patel");
+console.log(numbers);
